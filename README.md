@@ -12,11 +12,11 @@ bash acunetix.sh
 
 choose options 
 
-1 for New installation 
+1.  New installation 
 
-2 to change default credential
+2. change default credential
 
-3 to exit the script 
+3.  exit the script 
 
 once installation is done go to browser and hit 
 
