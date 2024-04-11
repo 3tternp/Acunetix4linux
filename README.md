@@ -17,12 +17,12 @@ choose options
 2. change default credential
    
  **NOTE: TO change Default credential you need to provide docker name such that you can change your Acunetix default credential**   
-_**Default Credential **
+**Default Credential **
 
 
-Username:admin@admin.com
+**Username:**admin@admin.com
 
-password:Admin123_
+**password:**Admin123
 
 once installation is done go to browser and hit 
 
