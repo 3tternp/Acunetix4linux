@@ -15,6 +15,8 @@ choose options
 1.  New installation 
 
 2. change default credential
+   
+ **NOTE: TO change Default credential you need to provide docker name such that you can change your docker credential**   
 
 3.  exit the script 
 
