@@ -16,7 +16,7 @@ choose options
 
 2. change default credential
    
- **NOTE: TO change Default credential you need to provide docker name such that you can change your docker credential**   
+ **NOTE: TO change Default credential you need to provide docker name such that you can change your docker default credential**   
 
 3.  exit the script 
 
