@@ -20,9 +20,9 @@ choose options
 **Default Credential**
 
 
-**Username:**admin@admin.com
+**Username:** admin@admin.com
 
-**password:**Admin123
+**password:** Admin123
 
 once installation is done go to browser and hit 
 
