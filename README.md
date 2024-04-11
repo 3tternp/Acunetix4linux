@@ -17,7 +17,7 @@ choose options
 2. change default credential
    
  **NOTE: TO change Default credential you need to provide docker name such that you can change your Acunetix default credential**   
-**Default Credential **
+**Default Credential**
 
 
 **Username:**admin@admin.com
