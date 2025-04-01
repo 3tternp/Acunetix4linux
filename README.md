@@ -3,7 +3,9 @@
 # Important Notice for Users 
 
 Run this script as a root user
+
 chmod +x acunetix.sh
+
 ./acunetix.sh 
 
 choose options 
