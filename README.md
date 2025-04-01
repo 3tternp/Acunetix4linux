@@ -4,9 +4,17 @@
 
 Run this script as a root user
 
-chmod +x acunetix.sh
+Clone the script to your Linux machine terminal 
 
-./acunetix.sh 
+git clone https://github.com/3tternp/Acunetix4linux
+
+**Change the directory to the cloned folder as**
+
+_cd Acunetix4linux_
+
+_chmod +x acunetix.sh_
+
+_./acunetix.sh_ 
 
 choose options 
 
