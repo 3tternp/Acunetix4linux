@@ -21,10 +21,15 @@ _./acunetix.sh_
 
 choose options 
 
-1.  New installation 
+1.  New installation
+![image](https://github.com/user-attachments/assets/31f5e1f7-2095-4181-b3f6-bdea77904fd9)
+
 
 2. Change the default credential
-   
+   ![image](https://github.com/user-attachments/assets/3f735484-0e62-4faa-bd4f-385e053b4ffd)
+
+ 3. Exit
+      
  **NOTE: TO change the Default credential, you need to provide the Docker name such that you can change your Acunetix default credential.**   
 **Default Credential**
 
@@ -40,6 +45,8 @@ _https://127.0.0.1:13443_
 
 
 Enter your login credentials and start using the application 
+
+![image](https://github.com/user-attachments/assets/e1b6ba85-17bd-4001-808a-2216fed37704)
 
 !!!! enjoy !!!!
 
