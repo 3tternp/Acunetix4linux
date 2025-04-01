@@ -1,22 +1,18 @@
 # Acunetix4linux
 
-# important Notice for Users 
+# Important Notice for Users 
 
 Run this script as a root user
-
-# Before Installation be sure you have installed docker and it's components
-
-After all fulfillment run the script as 
-
-bash acunetix.sh 
+chmod +x acunetix.sh
+./acunetix.sh 
 
 choose options 
 
 1.  New installation 
 
-2. change default credential
+2. Change the default credential
    
- **NOTE: TO change Default credential you need to provide docker name such that you can change your Acunetix default credential**   
+ **NOTE: TO change the Default credential, you need to provide the Docker name such that you can change your Acunetix default credential.**   
 **Default Credential**
 
 
@@ -24,11 +20,11 @@ choose options
 
 **password:** Admin123
 
-once installation is done go to browser and hit 
+Once installation is done, go tothe  browser and hit 
 
 _https://127.0.0.1:13443_
 
-enter your login credential and start using application 
+Enter your login credentials and start using application 
 
 !!!! enjoy !!!!
 
